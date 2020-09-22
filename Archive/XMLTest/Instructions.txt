@@ -1,0 +1,12 @@
+SAX2 XML Parsing Demo
+---------------------
+Before running this demo, you will need to install
+Microsoft's MSXML 3.0 components, which contain the 
+new SAX2 methods. These can be downloaded at:
+
+http://msdn.microsoft.com/downloads/default.asp?URL=/code/sample.asp?url=/msdn-files/027/000/541/msdncompositedoc.xml
+
+For more information visit:
+http://msdn.microsoft.com/xml
+
+COPYRIGHT DAVID DRAKE 2001
